@@ -1,0 +1,1366 @@
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-21 22:24+0300\n"
+"PO-Revision-Date: 2014-12-04 15:59+0000\n"
+"Last-Translator: Andrejs Meinerts <inni96@inbox.lv>\n"
+"Language-Team: Latgalian <>\n"
+"Language: ltg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
+"2);\n"
+"X-Generator: Pootle 2.7\n"
+"X-POOTLE-MTIME: 1417708775.000000\n"
+
+#: ../data/ui/about.glade.in.h:1
+msgid "Copyright (C) 2009 - 2018"
+msgstr "Autortīseibys (C) 2009-2018"
+
+#. Please replace this line with your own names, one name per line.
+#: ../data/ui/about.glade.in.h:3
+msgid "translator-credits"
+msgstr "Andrejs Meinerts <inni96@inbox.lv>"
+
+#: ../data/ui/desktop-pref.glade.h:1 ../src/desktop-ui.c:34
+#: ../data/pcmanfm-desktop-pref.desktop.in.h:1
+msgid "Desktop Preferences"
+msgstr "Dorbgolda īstatiejumi"
+
+#: ../data/ui/desktop-pref.glade.h:2
+msgid "<b>Background</b>"
+msgstr "<b>Fons</b>"
+
+#: ../data/ui/desktop-pref.glade.h:3
+msgid "Wallpaper _mode:"
+msgstr "Dorbgolda fons:"
+
+#: ../data/ui/desktop-pref.glade.h:4
+msgid "_Wallpaper:"
+msgstr "Fona attāls:"
+
+#: ../data/ui/desktop-pref.glade.h:5
+msgid "Please select an image file"
+msgstr "Izavielejit attāla failu"
+
+#: ../data/ui/desktop-pref.glade.h:6
+msgid "_Use the same wallpaper on all desktops"
+msgstr "Vīns i tys paț attāls iz vysim dorbgoldim"
+
+#: ../data/ui/desktop-pref.glade.h:7
+msgid "_Background color:"
+msgstr "Fona krōsa:"
+
+#: ../data/ui/desktop-pref.glade.h:8
+msgid "<b>Text</b>"
+msgstr "<b>Teksts</b>"
+
+#: ../data/ui/desktop-pref.glade.h:9
+msgid "_Font of label text:"
+msgstr "Teksta fonts:"
+
+#: ../data/ui/desktop-pref.glade.h:10
+msgid "C_olor of label text:"
+msgstr "Teksta krōsa:"
+
+#: ../data/ui/desktop-pref.glade.h:11
+msgid "Color of _shadow:"
+msgstr "Ānys krōsa:"
+
+#: ../data/ui/desktop-pref.glade.h:12
+msgid "_Appearance"
+msgstr "Izskots"
+
+#: ../data/ui/desktop-pref.glade.h:13
+msgid "<b>Show desktop icons</b>"
+msgstr "<b>Rōdäț dorbgolda ikonys</b>"
+
+#: ../data/ui/desktop-pref.glade.h:14
+msgid "_Show \"Documents\" folder on the desktop"
+msgstr "Rōdäț mapi \"Muni dokumenti\" iz dorbgolda"
+
+#: ../data/ui/desktop-pref.glade.h:15
+msgid "Sho_w \"Devices\" folder on the desktop"
+msgstr "Rōdäț mapi \"Īkōrtys\" iz dorbgolda"
+
+#: ../data/ui/desktop-pref.glade.h:16
+msgid "Show \"_Trash Can\" folder on the desktop"
+msgstr "Rōdäț ikonu \"Karziná\" iz dorbgolda"
+
+#: ../data/ui/desktop-pref.glade.h:17
+msgid "S_how connected volumes on the desktop"
+msgstr "Rōdäț disku ikonys iz dorbgolda"
+
+#: ../data/ui/desktop-pref.glade.h:18
+msgid "_Desktop Icons"
+msgstr "_Dorbgolda ikonys"
+
+#: ../data/ui/desktop-pref.glade.h:19
+msgid "_Show menus provided by window managers when desktop is clicked"
+msgstr "Rōdäț lūgu menedžera izvieļnis, kod ir klikškis iz dorbgolda"
+
+#: ../data/ui/desktop-pref.glade.h:20
+msgid "_Use desktop as a folder (show icons on it) by path:"
+msgstr "Dorbgolda ikona ir mapá, kurei atsarūn:"
+
+#: ../data/ui/desktop-pref.glade.h:21 ../data/ui/pref.glade.h:84
+msgctxt "Use path for some folder: ..."
+msgid "Default"
+msgstr "Nūkluseits"
+
+#: ../data/ui/desktop-pref.glade.h:22 ../data/ui/pref.glade.h:85
+msgctxt "Use path for some folder: ..."
+msgid "Custom:"
+msgstr "Defineits:"
+
+#: ../data/ui/desktop-pref.glade.h:23
+msgid "Select a Desktop Folder"
+msgstr "Dorbgolda mapá"
+
+#: ../data/ui/desktop-pref.glade.h:24
+msgid "_Open folders from desktop in new window"
+msgstr "Dorbgolda mapi attaisäț jaunā lūgā"
+
+#: ../data/ui/desktop-pref.glade.h:25
+msgid "Ad_vanced"
+msgstr "Vairōk"
+
+#: ../data/ui/desktop-pref.glade.h:26
+msgid "Fill with background color only"
+msgstr "Izkrōsōț fona krōsā"
+
+#: ../data/ui/desktop-pref.glade.h:27
+msgid "Stretch to fill the entire monitor area"
+msgstr "Izstīpț attālu, lai tys aizjem vysu monitoru"
+
+#: ../data/ui/desktop-pref.glade.h:28
+msgid "Stretch to fit the monitor area"
+msgstr "Saspīsț attālu, lai tys īlein monitorā"
+
+#: ../data/ui/desktop-pref.glade.h:29
+msgid "Center unscaled image on the monitor"
+msgstr "Attāls monitora centrī, bez izmāru mainis"
+
+#: ../data/ui/desktop-pref.glade.h:30
+msgid "Tile the image to fill the entire monitor area"
+msgstr "Pavairynōț attālu, lai tys aizjem vysu monitoru"
+
+#: ../data/ui/desktop-pref.glade.h:31
+msgid "Stretch and crop to fill the monitor area"
+msgstr "Izstīpț attālu namainūt proporcejis, lai tys aizjem vysu monitoru"
+
+#: ../data/ui/desktop-pref.glade.h:32
+msgid "Stretch to fill the complete screen"
+msgstr "Izstīpț attālu, lai tys aizjem vysus ekranus"
+
+#: ../data/ui/pref.glade.h:1
+msgid "Open in current tab"
+msgstr "Attaisäț aktivijā tabā"
+
+#: ../data/ui/pref.glade.h:2
+msgid "Open in new tab"
+msgstr "Attaisäț jaunā tabā"
+
+#: ../data/ui/pref.glade.h:3
+msgid "Open in new window"
+msgstr "Attaisäț jaunā lūgā"
+
+#: ../data/ui/pref.glade.h:4
+msgid "Preferences"
+msgstr "Īstatiejumi"
+
+#: ../data/ui/pref.glade.h:5
+msgid "<b>Behavior</b>"
+msgstr "<b>Darbeibys</b>"
+
+#: ../data/ui/pref.glade.h:6
+msgid "_Open files with single click"
+msgstr "Attaisäț failus ai vīnu klikški"
+
+#: ../data/ui/pref.glade.h:7
+msgid "Delay of auto-selection in single click mode (0 to disable)"
+msgstr "Aizturá deļ atlaseišonys vīna klikšká režimā (0 - atslāgts)"
+
+#: ../data/ui/pref.glade.h:8
+msgid "Co_nfirm before deleting files"
+msgstr "Vysod apstyprynōț failu dziesšonu"
+
+#: ../data/ui/pref.glade.h:9
+msgid "_Move deleted files to \"trash can\" instead of erasing from disk"
+msgstr "Izdzāstūs failus salikț \"Karzinī\", nu diska naizdziešūt"
+
+#: ../data/ui/pref.glade.h:10
+msgid "_Erase files on removable media instead of \"trash can\" creation"
+msgstr "Izdzāstūs failus izdzäsț piļneigi"
+
+#: ../data/ui/pref.glade.h:11
+msgid "Confi_rm before moving files into \"trash can\""
+msgstr "Vysod apstyprynōț failu īlikšonu \"Karzinī\""
+
+#: ../data/ui/pref.glade.h:12
+msgid "Don't ask options on _launch executable file"
+msgstr "Naprasäț faila palaisšonys opcejis"
+
+#: ../data/ui/pref.glade.h:13
+msgid "_Bookmarks:"
+msgstr "Grōmotzeimis:"
+
+#: ../data/ui/pref.glade.h:14
+msgid "Defaul_t drop action:"
+msgstr "Nūkluseitō pōrviļkšonys darbeiba"
+
+#: ../data/ui/pref.glade.h:15
+msgid "\"_Smart shortcut\" auto-action on drop to Desktop folder"
+msgstr "\"Gudrōs nūrōdis\" darbeiba pōrvalkūt iz Dorbgolda mapi"
+
+#: ../data/ui/pref.glade.h:16
+msgid ""
+"If enabled then \"Auto\" action on drop file onto Desktop folder will be:\n"
+"- for files directly in Home folder a symlink will be created\n"
+"- files on the same file system will be moved\n"
+"- other files (e.g. on removable media) will be copied\n"
+"- for some external URI a shortcut will be created"
+msgstr ""
+"Ka īslāgta \"Auto\", to darbeibys pōrvalkūt iz Dorbgolda mapi ir:\n"
+"- failym, kuri atsarūn Dorbgolda mapī, teik iztaiseita nūrōdá\n"
+"- faily nu tōs pošys failu sistemys teik pōrlykti\n"
+"- faily nu cytom failu sistemom (pīm. montejamī diski) teik pōrkopeiti\n"
+"- ōrejōm URI (pīm. WEB adresis) teik sataiseita ikona"
+
+#: ../data/ui/pref.glade.h:21
+msgid "_Unfold tab when files are dragged onto tab button"
+msgstr "Attaisäț tabu, kod faily teik pōrvylki iz tab pūgu"
+
+#: ../data/ui/pref.glade.h:22
+msgid "_Focus previous folder after coming to its parent"
+msgstr "Rōdäț īprīškdejū mapi pec pōrīšonys iz augstōkū mapi"
+
+#: ../data/ui/pref.glade.h:23
+msgid "<b>Default View</b>"
+msgstr "<b>Nūkluseitīs izskots</b>"
+
+#: ../data/ui/pref.glade.h:24
+msgid "Vie_w Mode:"
+msgstr "Izskots:"
+
+#: ../data/ui/pref.glade.h:25
+msgid "_General"
+msgstr "Pamata"
+
+#: ../data/ui/pref.glade.h:26
+msgid "<b>Icons</b>"
+msgstr "<b>Ikonys</b>"
+
+#: ../data/ui/pref.glade.h:27
+msgid "Size of _big icons:"
+msgstr "Lelūs ikonu izmārs:"
+
+#: ../data/ui/pref.glade.h:28
+msgid "Size of small _icons:"
+msgstr "Mozūs ikonu izmārs:"
+
+#: ../data/ui/pref.glade.h:29
+msgid "Size of _thumbnails:"
+msgstr "Seikattālu izmārs:"
+
+#: ../data/ui/pref.glade.h:30
+msgid "Size of side _pane icons:"
+msgstr "Sōnejō panelá ikonu izmārs:"
+
+#: ../data/ui/pref.glade.h:31
+msgid "_Show thumbnails of files"
+msgstr "Rōdäț failu seikattālus"
+
+#: ../data/ui/pref.glade.h:32
+msgid "_Only show thumbnails for local files"
+msgstr "Rōdäț seikattālus viņ lokālyjīm failym"
+
+#: ../data/ui/pref.glade.h:33
+msgid "Do _not generate thumbnails for files exceeding this size:"
+msgstr "Narōdäț seikattālus failym, kuru izmārs ir lelōks par:"
+
+#: ../data/ui/pref.glade.h:34
+msgid "<b>User Interface</b>"
+msgstr "<b>Lītōtōja interfeiss</b>"
+
+#: ../data/ui/pref.glade.h:35
+msgid "Us_e SI decimal prefixes instead of IEC binary prefixes"
+msgstr "Lītōț SI decimālō prefiksus IEC binārū prefiksu vītā"
+
+#: ../data/ui/pref.glade.h:36
+msgid "Treat backup files as _hidden"
+msgstr "Skaitäț rezervis kopeišonys failus par slāptīm"
+
+#: ../data/ui/pref.glade.h:37
+msgid "Al_ways show full file names"
+msgstr "Vysod rōdäț pylnus failu nūsaukumus"
+
+#: ../data/ui/pref.glade.h:38
+msgid "Show icons of hidden _files shadowed"
+msgstr "Slāptūs failu ikonys rōdäț naspūdrys"
+
+#: ../data/ui/pref.glade.h:39
+msgid "_Display"
+msgstr "Izskots"
+
+#: ../data/ui/pref.glade.h:40
+msgid "Hid_e 'Close tab' buttons"
+msgstr "Narōdäț 'Aiztaisäț tabu' pūgys"
+
+#: ../data/ui/pref.glade.h:41
+msgid "Al_ways show the tab bar"
+msgstr "Rōdäț tabu jūslu"
+
+#: ../data/ui/pref.glade.h:42
+msgid "_Maximum width of tab label:"
+msgstr "Maksimals taba plotums:"
+
+#. Use genitive case here, context is: width is XXX characters
+#: ../data/ui/pref.glade.h:44
+msgid "characters"
+msgstr "simboly"
+
+#: ../data/ui/pref.glade.h:45
+msgid "<b>Directories Tree</b>"
+msgstr "Maṕu kūks"
+
+#: ../data/ui/pref.glade.h:46
+msgid "Hide e_xpander on empty or locked folder"
+msgstr "Narōdäț tukšūs i slāgtūs maṕu saturu"
+
+#: ../data/ui/pref.glade.h:47
+msgid "<b>Show in Places:</b>"
+msgstr "<b>Rōdäț vītys:</b>"
+
+#: ../data/ui/pref.glade.h:48
+msgid "_Home Folder"
+msgstr "Sātys mapá"
+
+#: ../data/ui/pref.glade.h:49
+msgid "Des_ktop"
+msgstr "Dorbgolds"
+
+#: ../data/ui/pref.glade.h:50 ../src/main-win-ui.c:238
+msgid "_Trash Can"
+msgstr "Karziná"
+
+#: ../data/ui/pref.glade.h:51
+msgid "_Filesystem Root"
+msgstr "Golvonō mapá"
+
+#: ../data/ui/pref.glade.h:52
+msgid "App_lications"
+msgstr "Programys"
+
+#: ../data/ui/pref.glade.h:53 ../src/main-win-ui.c:241
+msgid "Dev_ices"
+msgstr "Īkōrtys"
+
+#: ../data/ui/pref.glade.h:54
+msgid "_Network"
+msgstr "Teiklys"
+
+#: ../data/ui/pref.glade.h:55
+msgid "_Layout"
+msgstr "Izkōrtōjums"
+
+#: ../data/ui/pref.glade.h:56
+msgid "<b>Auto-mount</b>"
+msgstr "<b>Auto-monteišona</b>"
+
+#: ../data/ui/pref.glade.h:57
+msgid "_Mount mountable volumes automatically on program startup"
+msgstr "Auto_matiski pīmontäț datu nesiejus palaižūt failu pōrvaldnīku"
+
+#: ../data/ui/pref.glade.h:58
+msgid "Mo_unt removable media automatically when they are inserted"
+msgstr "A_utomatiski pīmontäț nūjemamūs datu nesiejus, kod tī ir daslāgti"
+
+#: ../data/ui/pref.glade.h:59
+msgid "_Show available options for removable media when they are inserted"
+msgstr "Rōdäț darbeibys ar nūjemamīm datu nesiejim, kod tī ir daslāgti"
+
+
+#: ../data/ui/pref.glade.h:60
+msgid "Do_n't show available options for those media types:"
+msgstr "Narōdäț darbeibys deļ itaidim datu nesieju tipim:"
+
+#: ../data/ui/pref.glade.h:61
+msgid "_Remove selected"
+msgstr "Dzäsț atzeimōtūs"
+
+#: ../data/ui/pref.glade.h:62
+msgid "_Open mounted removable media in new tab instead of new window"
+msgstr "Attaisäț pīmonteitūs datu nesiejus na jaunā lūga, a tabā"
+
+#: ../data/ui/pref.glade.h:63
+msgid "When removable medium unmounted:"
+msgstr "Kod nūjemamīs datu nesiejs ir atmonteits:"
+
+#: ../data/ui/pref.glade.h:64
+msgid "Clos_e tab containing removable medium"
+msgstr "Aiztaisäț tabu, kurymā beja datu nesieja saturs"
+
+#: ../data/ui/pref.glade.h:65
+msgid "Change folder in the tab to _Home Folder"
+msgstr "Pōrīț tabā iz Sātys mapi"
+
+#: ../data/ui/pref.glade.h:66
+msgid "_Volume Management"
+msgstr "Disku _vadeiba"
+
+#: ../data/ui/pref.glade.h:67
+msgid "<b>Programs</b>"
+msgstr "<b>Programys</b>"
+
+#: ../data/ui/pref.glade.h:68
+msgid "<i>Commands below may include extra options if necessary.</i>"
+msgstr "<i>Zamōk radzamōm komandom var bȳț papyldopcejis, kod vajag.</i>"
+
+#: ../data/ui/pref.glade.h:69
+msgid "_Terminal emulator:"
+msgstr "_Terminala emulators:"
+
+#: ../data/ui/pref.glade.h:70
+msgid "_Switch user command:"
+msgstr "Lītōtōju pōrsliegšonys komanda:"
+
+#. Application command to format some drive
+#: ../data/ui/pref.glade.h:72
+msgid "_Format command:"
+msgstr "Formateišonys komanda:"
+
+#: ../data/ui/pref.glade.h:73
+msgid "A_rchiver integration:"
+msgstr "Arhiveišonys programa:"
+
+#: ../data/ui/pref.glade.h:74
+msgid "<b>Templates</b>"
+msgstr "<b>Šabloni</b>"
+
+#: ../data/ui/pref.glade.h:75
+msgid "S_how only user defined templates in menu"
+msgstr "Rōdäț viņ lītōtōja taiseitū šablonu sarokstu"
+
+#: ../data/ui/pref.glade.h:76
+msgid "Show _only one template for each MIME type"
+msgstr "Rōdäț vīnu šablonu kotram MIME tipam"
+
+#: ../data/ui/pref.glade.h:77
+msgid "Ru_n default application after creation from template"
+msgstr "Pec šablona taiseitū failu attaisäț ai nūkluseitū programu"
+
+#: ../data/ui/pref.glade.h:78
+msgid "<b>Other Options</b>"
+msgstr "<b>Cyti īstatiejumi</b>"
+
+#: ../data/ui/pref.glade.h:79
+msgid "Use Application Startup Notify _by default"
+msgstr "Paziņōjumi par programys pazalaisšonu"
+
+#: ../data/ui/pref.glade.h:80
+msgid ""
+"If checked then use Startup Notify for application if another not stated "
+"explicitly.\n"
+"If unchecked then use Startup Notify only if that is defined for application."
+msgstr ""
+"Ka īslāgts, to izlāc paziņōjums par programys pazalaisšonu, kod "
+"nazajauc cyti īstatiejumi.\n"
+"Ka atslāgts, to paziņōjums izlāc viņ tod, kod tys defineits pošā programā."
+
+#: ../data/ui/pref.glade.h:82
+msgid "D_efer test for content type on folder loading"
+msgstr "Pagaidäț ai faila tipa nūteikšonu, cikam lōdejās mapis saturs"
+
+#: ../data/ui/pref.glade.h:83
+msgid "Use path for \"Home Folder\" button:"
+msgstr "\"Sātys mapá\" atsarasšonys vīta:"
+
+#: ../data/ui/pref.glade.h:86
+msgid "_Use current"
+msgstr "Tānejō"
+
+#: ../data/ui/pref.glade.h:87
+msgid "_Advanced"
+msgstr "Papildu"
+
+#: ../data/ui/pref.glade.h:88
+msgid "<b>_Do not load modules matching:</b>"
+msgstr "<b>Naīlōdäț itūs moduļus:</b>"
+
+#: ../data/ui/pref.glade.h:89
+msgid "<b>_Load these modules anyway:</b>"
+msgstr "<b>Īlōdäț itūs moduļus vysleidz:</b>"
+
+#: ../data/ui/pref.glade.h:90
+msgid "Modules"
+msgstr "Moduli"
+
+#: ../data/ui/pref.glade.h:91
+msgid "Auto (move if on the same FS, copy otherwise)"
+msgstr "Auto (pōrlikț, ka iz vīnys FS, ka nā - kopäț)"
+
+#: ../data/ui/pref.glade.h:92
+msgid "Copy"
+msgstr "Kopäț"
+
+#: ../data/ui/pref.glade.h:93
+msgid "Move"
+msgstr "Pōrlikț"
+
+#: ../data/ui/pref.glade.h:94
+msgid "Ask"
+msgstr "Paprasäț"
+
+#: ../data/ui/pref.glade.h:95
+msgid "Icon view"
+msgstr "Ikonys"
+
+#: ../data/ui/pref.glade.h:96
+msgid "Compact view"
+msgstr "Kompakts"
+
+#: ../data/ui/pref.glade.h:97
+msgid "Thumbnail view"
+msgstr "Seikattāly"
+
+#: ../data/ui/pref.glade.h:98
+msgid "Detailed list view"
+msgstr "Detalizeits saroksts"
+
+#: ../data/ui/autorun.glade.h:1
+msgid "Removable medium is inserted"
+msgstr "Nūjemamīs datu nesiejs ir daslāgts"
+
+#: ../data/ui/autorun.glade.h:2
+msgid "<b>Removable medium is inserted</b>"
+msgstr "<b>Nūjemamīs datu nesiejs ir daslāgts</b>"
+
+#: ../data/ui/autorun.glade.h:3
+msgid "Type of medium:"
+msgstr "Datu nesieja tips:"
+
+#: ../data/ui/autorun.glade.h:4
+msgid "Detecting..."
+msgstr "Detektei..."
+
+#: ../data/ui/autorun.glade.h:5
+msgid "Please select the action you want to perform:"
+msgstr "Izavielejit darbeibu:"
+
+#: ../data/ui/autorun.glade.h:6
+msgid "_Always perform this action on this media type"
+msgstr "Deļ itaidim datu nesiejim vysod bȳș itei darbeiba"
+
+#: ../data/ui/connect.glade.h:1
+msgid "Connect to remote server"
+msgstr "Dazaslägț pi tōlejō servera"
+
+#: ../data/ui/connect.glade.h:2
+msgid "<b>Specify remote folder to connect</b>"
+msgstr "<b>Dazasliegšonys mapá iz tōlejō servera</b>"
+
+#: ../data/ui/connect.glade.h:3
+msgid "_Type:"
+msgstr "_Tips:"
+
+#: ../data/ui/connect.glade.h:4
+msgid "_Host:"
+msgstr "Dators:"
+
+#: ../data/ui/connect.glade.h:5
+msgid "_Port:"
+msgstr "_Ports:"
+
+#: ../data/ui/connect.glade.h:6
+msgid "Pa_th:"
+msgstr "Ceļš"
+
+#: ../data/ui/connect.glade.h:7
+msgid "_Anonymous login"
+msgstr "Anonimīs lītōtōjs"
+
+#: ../data/ui/connect.glade.h:8
+msgid "_Login as:"
+msgstr "Dazaslägț kei:"
+
+#: ../data/ui/connect.glade.h:9
+msgid "SSH"
+msgstr ""
+
+#: ../data/ui/connect.glade.h:10
+msgid "FTP"
+msgstr ""
+
+#: ../data/ui/connect.glade.h:11
+msgid "WebDAV"
+msgstr ""
+
+#: ../src/volume-manager.c:237
+msgid "mixed content"
+msgstr "vysaids"
+
+#: ../src/volume-manager.c:246
+msgid "removable disk"
+msgstr "nūjemamīs disks"
+
+#: ../src/volume-manager.c:302
+msgid "Open in File Manager"
+msgstr "Attaisäț Failu pōrvaldnīkā"
+
+#: ../src/desktop-ui.c:51
+msgid "Open in New Ta_b"
+msgstr "Attaisäț jaunā ta_bā"
+
+#: ../src/desktop-ui.c:52 ../src/tab-page.c:57
+msgid "Open in New Win_dow"
+msgstr "Attaisäț jaunā lūgā"
+
+#: ../src/desktop-ui.c:54 ../src/tab-page.c:59
+msgid "Open in Termina_l"
+msgstr "Attaisäț termna_la lūgā"
+
+#: ../src/desktop-ui.c:68
+msgid "_Remove from Desktop"
+msgstr "Nūjimț nu dorbgolda"
+
+#: ../src/desktop-ui.c:85
+msgid "Stic_k to Current Position"
+msgstr "Dasprausț itymā vītā"
+
+#: ../src/desktop-ui.c:90
+msgid "Snap to _Grid"
+msgstr "Kōrtōț ryndōs"
+
+#: ../src/desktop.c:974
+msgid "Activate file"
+msgstr "Palaisț failu"
+
+#: ../src/desktop.c:976
+msgid "Show file menu"
+msgstr "Rōdäț izlācūšū menu"
+
+#: ../src/desktop.c:1394
+msgid "Show desktop menu"
+msgstr "Rōdäț dorbgolda menu"
+
+#. FIXME: set name by monitor
+#: ../src/desktop.c:1466
+msgid "Desktop"
+msgstr "Dorbgolds"
+
+#: ../src/main-win-ui.c:189
+msgid "_File"
+msgstr "_Fails"
+
+#: ../src/main-win-ui.c:190
+msgid "_New Window"
+msgstr "Jau_ns lūgs"
+
+#: ../src/main-win-ui.c:190
+msgid "Open new file manager window"
+msgstr "Attaisäț jaunu failu pōrvaldnīkā lūgu"
+
+#: ../src/main-win-ui.c:191
+msgid "New T_ab"
+msgstr "Jauns tabs"
+
+#: ../src/main-win-ui.c:191
+msgid "Create new tab for this folder"
+msgstr "Itū mapi attaisäț jaunā tabā"
+
+#: ../src/main-win-ui.c:192
+msgid "C_reate New..."
+msgstr "Sataisäț jaunu..."
+
+#: ../src/main-win-ui.c:193
+msgid "Folder"
+msgstr "Mapi"
+
+#: ../src/main-win-ui.c:194
+msgid "Empty File"
+msgstr "Tukšu failu"
+
+#: ../src/main-win-ui.c:195
+msgid "Folder Propertie_s"
+msgstr "Mapis īpašeiby_s"
+
+#: ../src/main-win-ui.c:196
+msgid "_Close Tab"
+msgstr "Aiztaisäț tabu"
+
+#: ../src/main-win-ui.c:197
+msgid "Close _Window"
+msgstr "Aiztaisäț lūgu"
+
+#: ../src/main-win-ui.c:198
+msgid "_Edit"
+msgstr "R_edigäț"
+
+#: ../src/main-win-ui.c:200
+msgid "C_ut"
+msgstr "Izjimț"
+
+#: ../src/main-win-ui.c:203
+msgid "Move to _Trash"
+msgstr "Iz Karzini"
+
+#: ../src/main-win-ui.c:205
+msgid "Copy Pat_h(s)"
+msgstr "Kopäț ceļu"
+
+#: ../src/main-win-ui.c:206
+msgid "R_ename..."
+msgstr "Pōrsaukț..."
+
+#: ../src/main-win-ui.c:207
+msgid "D_uplicate..."
+msgstr "Sataisäț duplikatu..."
+
+#: ../src/main-win-ui.c:208
+msgid "Create Lin_k..."
+msgstr "Sataisäț nūrōdi..."
+
+#: ../src/main-win-ui.c:209
+msgid "_Move to..."
+msgstr "Pōrviļkț iz..."
+
+#: ../src/main-win-ui.c:210
+msgid "Copy to_..."
+msgstr "Kopäț iz..."
+
+#: ../src/main-win-ui.c:211
+msgid "Propertie_s"
+msgstr "Īpašeiby_s"
+
+#: ../src/main-win-ui.c:213
+msgid "_Invert Selection"
+msgstr "Atlasäț pretejūs"
+
+#: ../src/main-win-ui.c:214
+msgid "Prefere_nces"
+msgstr "Īstatiejumi"
+
+#: ../src/main-win-ui.c:215
+msgid "_View"
+msgstr "Skots"
+
+#: ../src/main-win-ui.c:216
+msgid "_Reload Folder"
+msgstr "Atsvaidzynōț mapi"
+
+#: ../src/main-win-ui.c:216
+msgid "Reload current folder"
+msgstr "Atsvaidzynōț itū mapi"
+
+#: ../src/main-win-ui.c:217
+msgid "Tool_bar"
+msgstr "Reikjūsla"
+
+#: ../src/main-win-ui.c:218
+msgid "Pat_h Bar"
+msgstr "Navigacejis jūsla"
+
+#: ../src/main-win-ui.c:219
+msgid "Side _Pane"
+msgstr "Sōnu _panelș"
+
+#. other see below: 'ShowHidden' 'ShowStatus' 'Fullscreen' 'IconView'...
+#: ../src/main-win-ui.c:221
+msgid "Fo_lder View Mode"
+msgstr "Mapis izskota režims:"
+
+#: ../src/main-win-ui.c:222
+msgid "S_ort Files"
+msgstr "Kōrtōț failus"
+
+#: ../src/main-win-ui.c:224
+msgid "Zoom O_ut"
+msgstr "Pamozynōț"
+
+#: ../src/main-win-ui.c:227
+msgid "Fil_ter..."
+msgstr "Filtrs..."
+
+#: ../src/main-win-ui.c:229
+msgid "_Help"
+msgstr "Paleigs"
+
+#: ../src/main-win-ui.c:231
+msgid "_Keyboard Navigation"
+msgstr "Vadeiba nu tastaturys"
+
+#: ../src/main-win-ui.c:232
+msgid "_Go"
+msgstr "Īț iz"
+
+#: ../src/main-win-ui.c:233
+msgid "_Previous Folder"
+msgstr "Īprīškdejō mapá"
+
+#: ../src/main-win-ui.c:233
+msgid "Return to previous folder in history"
+msgstr "Īț iz īprīškdejū mapi nu saroksta"
+
+#: ../src/main-win-ui.c:234
+msgid "_Next Folder"
+msgstr "Nōkušō mapá"
+
+#: ../src/main-win-ui.c:234
+msgid "Go forward to next folder in history"
+msgstr "Īț iz nōkušū mapi nu saroksta"
+
+#: ../src/main-win-ui.c:235
+msgid "Pa_rent Folder"
+msgstr "Augstōka mapá"
+
+#: ../src/main-win-ui.c:235
+msgid "Go to parent Folder"
+msgstr "Īț iz augstōka leiminá mapi"
+
+#: ../src/main-win-ui.c:236
+msgid "H_ome Folder"
+msgstr "Sātys mapi"
+
+#: ../src/main-win-ui.c:236
+msgid "Go to home folder"
+msgstr "Īț iz Sātys mapi"
+
+#: ../src/main-win-ui.c:237
+msgid "_Desktop"
+msgstr "_Dorbgoldu"
+
+#: ../src/main-win-ui.c:237
+msgid "Go to desktop folder"
+msgstr "Īț iz Dorbgolda mapi"
+
+#: ../src/main-win-ui.c:238
+msgid "Open trash can"
+msgstr "Īț iz Karzini"
+
+#: ../src/main-win-ui.c:239
+msgid "Filesyste_m Root"
+msgstr "Golvonō mapá"
+
+#: ../src/main-win-ui.c:239
+msgid "Go fo filesystem root"
+msgstr "Īț iz golvonū mapi"
+
+#: ../src/main-win-ui.c:240
+msgid "_Applications"
+msgstr "Progr_amom"
+
+#: ../src/main-win-ui.c:240
+msgid "Go to root of applications menu folder"
+msgstr "Īț iz programu golvonū mapi"
+
+#: ../src/main-win-ui.c:241
+msgid "Go to list of devices connected to the computer"
+msgstr "Īț iz pīmonteitūs īkōrtu mapi"
+
+#: ../src/main-win-ui.c:242
+msgid "Net_work"
+msgstr "Teiklu"
+
+#: ../src/main-win-ui.c:242
+msgid "Go to list of places on the network"
+msgstr "Īț iz teikla īkōrtu sarokstu"
+
+#: ../src/main-win-ui.c:243
+msgid "_Go to Location..."
+msgstr "Īț iz vītu..."
+
+#: ../src/main-win-ui.c:244
+msgid "_Connect to Server..."
+msgstr "Dazaslägț pi servera..."
+
+#: ../src/main-win-ui.c:244
+msgid "Open a window to choose remote folder location"
+msgstr "Attaisäț lūgu, kurā ir teikla maṕu saroksts"
+
+#: ../src/main-win-ui.c:245
+msgid "Go to the path in the location bar"
+msgstr "Īț iz adresi, kas īraksteita navigacejis jūslā"
+
+#: ../src/main-win-ui.c:246
+msgid "_Bookmarks"
+msgstr "Grōmotzeimis"
+
+#: ../src/main-win-ui.c:247
+msgid "_Add to Bookmarks..."
+msgstr "Dalikț pi grōmotzeiḿom..."
+
+#: ../src/main-win-ui.c:247
+msgid "Add current folder to bookmarks list"
+msgstr "Īrakstäț itū mapi grōmotzeiḿu sarokstā"
+
+#: ../src/main-win-ui.c:248
+msgid "Too_ls"
+msgstr "Reiki"
+
+#: ../src/main-win-ui.c:249
+msgid "Open Current Folder in _Terminal"
+msgstr "Attaisäț itū mapi _terminala lūgā"
+
+#: ../src/main-win-ui.c:251
+msgid "Fin_d Files..."
+msgstr "Vaicōț failus..."
+
+#: ../src/main-win-ui.c:251
+msgid "Open search dialog"
+msgstr "Attaisäț failu vaicōšonys lūgu"
+
+#: ../src/main-win-ui.c:254
+msgid "_Run a Command in Current Folder..."
+msgstr "Sta_rtäț komandu itymā mapī..."
+
+#. Note to translators: "Mingle..." means "Do not put folders before files" but make the translation as short as possible, please!
+#: ../src/main-win-ui.c:271
+msgid "Mingle _Files and Folders"
+msgstr "Nakōrtōț mapis pyrms _failym"
+
+#: ../src/main-win-ui.c:274
+msgid "_Ignore Name Case"
+msgstr "Naīvārōț burtu lelumu nūsaukumūs"
+
+#: ../src/main-win-ui.c:276
+msgid "Sho_w Hidden"
+msgstr "Rōdäț slāptūs"
+
+#. Note to translators: this save is meant for folder's settings such as sort
+#: ../src/main-win-ui.c:278
+msgid "Preserve This Folder's Settings"
+msgstr "Atcerätīs itōs mapis īstatiejumus"
+
+#: ../src/main-win-ui.c:279
+msgid ""
+"Check to remember view and sort as folder setting rather than global one"
+msgstr "Atcerätīs izskotu i kōrtōšonu atseviški nu cytim īstatiejumi"
+
+#: ../src/main-win-ui.c:281
+msgid "_Show Toolbar"
+msgstr "Rōdäț reikjū_slu"
+
+#: ../src/main-win-ui.c:282
+msgid "Show 'New _Window' Button"
+msgstr "'Jauns lūgs'"
+
+#: ../src/main-win-ui.c:283
+msgid "Show 'New _Tab' Button"
+msgstr "'Jauns tabs'"
+
+#: ../src/main-win-ui.c:284
+msgid "Show _Navigation Buttons"
+msgstr "Navigacejis pūgys"
+
+#: ../src/main-win-ui.c:285
+msgid "Show '_Home' Button"
+msgstr "'Sātys mapá'"
+
+#: ../src/main-win-ui.c:286
+msgid "Sho_w Side Pane"
+msgstr "Rōdäț sōnu paneli"
+
+#: ../src/main-win-ui.c:287
+msgid "Show Status B_ar"
+msgstr "Ziņōjumu lūgs"
+
+#: ../src/main-win-ui.c:288
+msgid "_Dual Pane Mode"
+msgstr "_Divpaneļu režims"
+
+#: ../src/main-win-ui.c:288
+msgid "Show two panels with folder views"
+msgstr "Rōdäț div paneļus ar maṕom"
+
+#: ../src/main-win-ui.c:289
+msgid "Fullscreen _Mode"
+msgstr "Iz vysa ekrana"
+
+#: ../src/main-win-ui.c:295
+msgid "_Icon View"
+msgstr "_Ikonys"
+
+#: ../src/main-win-ui.c:296
+msgid "_Compact View"
+msgstr "_Kompakts"
+
+#: ../src/main-win-ui.c:297
+msgid "_Thumbnail View"
+msgstr "Seikat_tālu"
+
+#: ../src/main-win-ui.c:298
+msgid "Detailed _List View"
+msgstr "Deta_lizeits saroksts"
+
+#: ../src/main-win-ui.c:311 ../src/main-win-ui.c:319
+msgid "By _Name"
+msgstr "Pec _nūsaukuma"
+
+#: ../src/main-win-ui.c:312 ../src/main-win-ui.c:320
+msgid "By _Modification Time"
+msgstr "Pec _modificeišonys laika"
+
+#: ../src/main-win-ui.c:313 ../src/main-win-ui.c:321
+msgid "By _Size"
+msgstr "Pec izmāra"
+
+#: ../src/main-win-ui.c:314 ../src/main-win-ui.c:322
+msgid "By File _Type"
+msgstr "Pec faila _tipa"
+
+#: ../src/main-win-ui.c:316
+msgid "By _Extension"
+msgstr "Pec paplašynōjuma"
+
+#: ../src/main-win-ui.c:329
+msgid "Places"
+msgstr "Vītys"
+
+#: ../src/main-win-ui.c:330
+msgid "Directory Tree"
+msgstr "Maṕu kūks"
+
+#: ../src/main-win-ui.c:331
+msgid "Remote"
+msgstr "Tōlejīs"
+
+#: ../src/main-win-ui.c:337
+msgid "_Location"
+msgstr "Programys"
+
+#: ../src/main-win-ui.c:338
+msgid "_Buttons"
+msgstr "Pūgys"
+
+#: ../src/main-win.c:938 ../src/main-win.c:942
+msgid "Show history of visited folders"
+msgstr "Rōdäț sarokstu, kurymōs maṕōs tyka bȳts"
+
+#: ../src/main-win.c:947
+msgid "History"
+msgstr "Viesturá"
+
+#: ../src/main-win.c:961
+msgid "You are in super user mode"
+msgstr "Pōrvaldnīks dorbojās root režimā"
+
+#: ../src/main-win.c:1146
+msgid "Lightweight file manager\n"
+msgstr "Vīgls failu pōrvaldnīks\n"
+
+#: ../src/main-win.c:1156
+#, c-format
+msgid "using LibFM ver. %s\n"
+msgstr "lītoj LibFM ver. %s\n"
+
+#: ../src/main-win.c:1158
+msgid ""
+"\n"
+"Developed by Hon Jen Yee (PCMan)"
+msgstr ""
+"\n"
+"autors Hon Jen Yee (PCMan)"
+
+#: ../src/main-win.c:1183 ../src/main-win.c:1191
+msgid "Keyboard Navigation"
+msgstr "Vadeiba nu tastaturys"
+
+#: ../src/main-win.c:1185
+msgid ""
+"Tab: cycle focus Folder View -> Side Pane -> Tools Bar\n"
+"Shift+Tab: cycle focus Tools Bar -> Side Pane -> Folder View\n"
+"F6: change focus Side pane <-> Folder view\n"
+"F8: focus divider between Side pane and Folder view\n"
+"F10: activate main menu\n"
+"Ctrl+L or Alt+D: jump focus to Path Bar"
+msgstr ""
+"Tab: pōrlikț fokusu  Mapis -> Sōnu panelș -> Reikjūsla\n"
+"Shift+Tab: pōrlikț fokusu  Reikjūsla -> Sōnu panelș -> Mapis\n"
+"F6: pōrlikț fokusu  Sōnu panelș <-> Mapis\n"
+"F8: fokuss storp Sōnu paneli i Maṕom\n"
+"F10: attasäț golvonū menu\n"
+"Ctrl+L or Alt+D: fokuss iz navigacejis jūslys"
+
+#: ../src/main-win.c:1227
+msgid "Run a command"
+msgstr "Palaisț komandu"
+
+#: ../src/main-win.c:1228
+msgid "Enter a command to run:"
+msgstr "Īrokstit komandu:"
+
+#: ../src/main-win.c:1235
+msgid "Current folder is inaccessible"
+msgstr "Itei mapá nav pīejama"
+
+#: ../src/main-win.c:1837
+#, c-format
+msgid ""
+"Add following folder to bookmarks:\n"
+"'%s'\n"
+"Enter a name for the new bookmark item:"
+msgstr ""
+"Pīlikț itū mapi pi grōmotzeiḿom:\n"
+"'%s' \n"
+"Īrokstit jaunōs grōmotzeimis nūsaukumu:"
+
+#: ../src/main-win.c:1841
+msgid "Add to Bookmarks"
+msgstr "Pīlikț pi grōmotzeiḿom"
+
+#: ../src/main-win.c:2587
+msgid "Select filter"
+msgstr "Filtra īraksteišona"
+
+#: ../src/main-win.c:2588
+msgid "Choose a new shell pattern to show files:"
+msgstr "Īrokstit jaunu šablonu, pec kura tikș rōdeiti faily"
+
+#. options only acceptable by first pcmanfm instance. These options are not passed through IPC
+#: ../src/pcmanfm.c:78
+msgid "Name of configuration profile"
+msgstr "Konfiguracejis profila nūsaukums"
+
+#: ../src/pcmanfm.c:78
+msgid "PROFILE"
+msgstr ""
+
+#: ../src/pcmanfm.c:79
+msgid "Run PCManFM as a daemon"
+msgstr "Palaisț PCManFM fona režimā"
+
+#: ../src/pcmanfm.c:80
+msgid "No function. Just to be compatible with nautilus"
+msgstr "Nav funkcejis. Dūmōts sadereibai ar nautilus"
+
+#. options that are acceptable for every instance of pcmanfm and will be passed through IPC.
+#: ../src/pcmanfm.c:83
+msgid "Launch desktop manager"
+msgstr "Palaisț dorbgolda pōrvaldnīku"
+
+#: ../src/pcmanfm.c:84
+msgid "Turn off desktop manager if it's running"
+msgstr "Izslägț dorbgolda pōrvaldnīku, ka tys dorbojās"
+
+#: ../src/pcmanfm.c:85
+msgid "Open desktop preference dialog"
+msgstr "Attaisäț dorbgolda īstatiejumu lūgu"
+
+#: ../src/pcmanfm.c:86
+msgid "Use --desktop option only for one screen"
+msgstr "Lītōț opceji --desktop tik deļ vīna ekrana"
+
+#: ../src/pcmanfm.c:87
+msgid "Set desktop wallpaper from image FILE"
+msgstr "Dorbgolda fona attāls"
+
+#: ../src/pcmanfm.c:87
+msgid "FILE"
+msgstr ""
+
+#. don't translate list of modes in description, please
+#: ../src/pcmanfm.c:89
+msgid ""
+"Set mode of desktop wallpaper. MODE=(color|stretch|fit|crop|center|tile|"
+"screen)"
+msgstr ""
+"Dorbgolda fona attāla režims. MODE=(color|stretch|fit|crop|"
+"center|tile|screen)"
+
+#: ../src/pcmanfm.c:89
+msgid "MODE"
+msgstr ""
+
+#: ../src/pcmanfm.c:90
+msgid "Open Preferences dialog on the page N"
+msgstr "Attaisäț Īstatiejumu lūgu lopai N"
+
+#: ../src/pcmanfm.c:90
+msgid "N"
+msgstr ""
+
+#: ../src/pcmanfm.c:91
+msgid "Open new window"
+msgstr "Attaisäț jaunu lūgu"
+
+#: ../src/pcmanfm.c:93
+msgid "Open a Find Files window"
+msgstr "Attaisäț failu vaicōšonys lūgu"
+
+#: ../src/pcmanfm.c:95
+msgid "Window role for usage by window manager"
+msgstr "Lūgs lūgu menedžerā"
+
+#: ../src/pcmanfm.c:95
+msgid "ROLE"
+msgstr ""
+
+#: ../src/pcmanfm.c:96
+msgid "[FILE1, FILE2,...]"
+msgstr ""
+
+#. FIXME: add "on this X screen/monitor" into diagnostics
+#: ../src/pcmanfm.c:376
+msgid "Desktop manager is not active."
+msgstr "Lūgu menedžers nav aktivs"
+
+#: ../src/pcmanfm.c:627
+msgid "Terminal emulator is not set."
+msgstr "Terminala emulatora programa nav defineita."
+
+#: ../src/tab-page.c:56
+msgid "Open in New T_ab"
+msgstr "Attaisäț jaunā tabā"
+
+#: ../src/tab-page.c:411
+#, c-format
+msgid "%d item selected"
+msgid_plural "%d items selected"
+msgstr[0] "Atlaseits %d objekts"
+msgstr[1] "Atlaseiti %d objekti"
+msgstr[2] "Atlaseiti %d objekti"
+
+#: ../src/tab-page.c:741
+#, c-format
+msgid "Free space: %s (Total: %s)"
+msgstr "Breiva vīta: %s (Kūpā: %s)"
+
+#: ../src/tab-page.c:761
+#, c-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d objekts"
+msgstr[1] "%d objekti"
+msgstr[2] "%d objekti"
+
+#: ../src/tab-page.c:762
+#, c-format
+msgid " (%d hidden)"
+msgid_plural " (%d hidden)"
+msgstr[0] "%d slāpts"
+msgstr[1] "%d slāptī"
+msgstr[2] "%d slāptī"
+
+#: ../src/pref.c:515
+msgid "Add to Modules Blacklist"
+msgstr "Moduli malnyjā sarokstā"
+
+#: ../src/pref.c:516
+msgid "Enter a blacklisted module mask:"
+msgstr "Īrokstit masku deļ modulim, kuri jōlīk malnyjā sarokstā"
+
+#: ../src/pref.c:607
+msgid "Add to Modules Whitelist"
+msgstr "Moduli boltyjā sarokstā"
+
+#: ../src/pref.c:608
+msgid "Enter a whitelisted module mask:"
+msgstr "Īrokstit masku deļ modulim, kuri jōlīk boltyjā sarokstā"
+
+#: ../data/pcmanfm.desktop.in.h:1
+msgid "File Manager PCManFM"
+msgstr "Failu pōrvaldnīks PCManFM"
+
+#: ../data/pcmanfm.desktop.in.h:2
+msgid "File Manager"
+msgstr "Failu pōrvaldnīks"
+
+#: ../data/pcmanfm.desktop.in.h:3
+msgid "Browse the file system and manage the files"
+msgstr "Failu sistemys i atsevišku failu pōrvaļdeišona"
+
+#: ../data/pcmanfm-desktop-pref.desktop.in.h:2
+msgid "Change desktop wallpapers and behavior of desktop manager"
+msgstr "Dorbgolda fona attāla nūmaineišona i lūgu menedžera pōrvaļdeišona"
+
+#~ msgid "Center on the screen"
+#~ msgstr "Centrēt attēlu uz ekrāna"
+
+#~ msgid "Opened in New Tab"
+#~ msgstr "Atvērt jaunā cilnē"
+
+#~ msgid "Create Symlin_k"
+#~ msgstr "Izveidot simbolisko saiti"
+
+#~ msgid "Switch user command is not set."
+#~ msgstr "Lietotāja maiņas komanda nav definēta."
+
+#~ msgid "Show \"_My Computer\" icon on desktop"
+#~ msgstr "Rādīt ikonu &quot;Mans Dators&quot;  uz darbvirsmas"
+
+#~ msgid "Des_ktop Folder"
+#~ msgstr "Darbvirsmas mape "
+
+#~ msgid "_Trash can"
+#~ msgstr "Papīrgrozs"
+
+#~ msgid "_Computer Drives"
+#~ msgstr "Tīkla diski"
+
+#~ msgid "_Add To Bookmarks"
+#~ msgstr "Pievienot grāmatzīmēm"
+
+#~ msgid "Open Current Folder as _Root"
+#~ msgstr "_Atvērt šo mapi ar root tiesībām"
+
+#~ msgid "Hide _folder content border"
+#~ msgstr "Slēpt mapes satura robežu"
+
+#~ msgid "Hide _side pane buttons"
+#~ msgstr "Paslēpt sānu paneļa pogas"
+
+#~ msgid "_Trash bin"
+#~ msgstr "Papīrgrozs"
+
+#~ msgid ""
+#~ "Examples: \"xterm -e %s\" for terminal or \"gksu %s\" for switching "
+#~ "user.\n"
+#~ "%s = the command line you want to execute with terminal or su."
+#~ msgstr ""
+#~ "Piemēri: \"xterm-e %s\" terminālim vai \"gksu %s\" mainot lietotāju. \n"
+#~ "%s = komandrinda, kuru vēlaties izpildīt terminālī vai ar su palīdzību."
+
+#~ msgid "Previous Folder"
+#~ msgstr "Iepriekšējā mape"
+
+#~ msgid "Next Folder"
+#~ msgstr "Nākamā mape"
+
+#~ msgid "_My Computer"
+#~ msgstr "Mans dators"
+
+#~ msgid "Installed Applications"
+#~ msgstr "Instalētās programmas"
+
+#~ msgid "Open entered folder"
+#~ msgstr "Augstāka līmeņa mape"
+
+#~ msgid "Blank File"
+#~ msgstr "Iztukšot failu"
+
+#~ msgid "Invert Selection"
+#~ msgstr "Izvēlēties pretēji"
+
+#~ msgid "<mode>"
+#~ msgstr "<režīms>"
+
+#~ msgid ""
+#~ "Open preference dialog. 'n' is number of the page you want to show (1, 2, "
+#~ "3...)."
+#~ msgstr ""
+#~ "Atvērt iestatījumu dialoga logu. &quot;N&quot; ir lapas numurs, kuru "
+#~ "vēlaties redzēt (1, 2, 3 ...)."
+
+#~ msgid "Enter a name for the newly created folder:"
+#~ msgstr "Ievadiet nosaukumu jaunizveidojamajam failam:"
+
+#~ msgid "Enter a name for the newly created file:"
+#~ msgstr "Ievadiet nosaukumu jaunizveidojamajam failam:"
+
+#~ msgid "New"
+#~ msgstr "Jauns"
